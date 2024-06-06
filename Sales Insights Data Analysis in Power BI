@@ -18,7 +18,7 @@ This project focuses on addressing the challenges faced by a computer hardware b
 
 **ETL Operations:** Connected MySQL database with Power BI to extract raw sales data.
 
-**Data Cleaning and Wrangling:** Performed data munging to normalize currency, handle invalid values, and ensure data consistency. 
+**Data Cleaning and Wrangling:** Performed data cleaning in Power Query to normalize currency, handle invalid values, and ensure data consistency. 
 This process included:
 - Removing duplicates
 - Handling missing values
